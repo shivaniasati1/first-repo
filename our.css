@@ -1,0 +1,16 @@
+body{
+  		background-image: url('arm.jpeg');
+  		background-size: cover;
+  		background-repeat: no-repeat;
+  	}
+  	div{
+  		height:920px;
+  		width: 70%;
+  		background-color: #1d2124b0;
+  		margin-left: 15%;
+  		color: white;
+  		font-size: 16pt;
+  		padding:100px;
+  	}
+
+  	
