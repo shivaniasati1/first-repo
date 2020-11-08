@@ -1,7 +1,7 @@
 body{
   		background-image: url('arm.jpeg');
   		background-size: cover;
-  		background-repeat: repeat;
+  		background-repeat: no-repeat;
   	}
   	div{
   		height:920px;
